@@ -6,3 +6,11 @@ Upload all working and operative scripts i will be using on my local server, so 
 
 ## Conceptual diagram
 ![Custom Diagram for a local server Ansible deployment, includes images for reference of the technologies in use for this setup](https://raw.githubusercontent.com/Akirapearl/homelab/main/images/server.png)
+
+## Configuration stages - Before anything else
+- Install Ansible locally, wipe server with fresh OS installation.
+- Define working directory and Ansible's inventory.
+- Configure SSH keys.
+- Check connectivity via ansible all -m ping.
+
+Progress: TBD.
