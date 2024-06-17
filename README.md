@@ -1,18 +1,28 @@
 # My homelab repo
 
 ## General idea/concept
-Upload all working and operative scripts i will be using on my local server, so anyone can take references, this is mostly a portfolio oriented repo, as well as a learning experience for myself. 
+Upload scripts I will be using on my local server, so anyone can take references.
+This is mostly a portfolio oriented repo, as well as a learning/hobbie experience for myself. 
 
 ## Diagram
-![Custom Diagram for a local server Ansible deployment, includes images for reference of the technologies in use for this setup](https://raw.githubusercontent.com/Akirapearl/homelab/main/images/server.png)
+![Diagram for a local server Ansible deployment](https://raw.githubusercontent.com/Akirapearl/homelab/main/images/server.png)
 
-## Configuration - Before anything else
-- Install Ansible localy (not a server), wipe server with fresh OS installation. 
+
+## Configuration Client & Server side
+- Install Ansible locally (not a server), wipe server with fresh OS installation. - :white_check_mark: CHECK
 - Define working directory and Ansible's inventory.
-- Configure SSH keys.
+- Configure SSH keys. - :white_check_mark: CHECK
 - Check connectivity via ansible all -m ping.
 
-Progress: TBD.
 
 ## Deploy - Docker compose
-Within the "docker-compose" folder/directory there are multiple files to take into consideration:
+- Photoprism
+- NextCloud
+        - NGINX Proxy Manager
+- Jenkins (Java/Golang compiling)
+
+### Potential upgrades
+
+ - Landing/home page. [Example for a homepage](https://github.com/daledavies/jump)
+ - System/Network Monitoring. [Dashdot](https://github.com/MauriceNino/dashdot) / [Grafana](https://grafana.com/) 
+
