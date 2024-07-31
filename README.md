@@ -1,7 +1,7 @@
 # My homelab repo
 
 ## General idea/concept
-Upload scripts I will be using on my local server, part of my [100 days of code challenge](https://akirapearl.github.io/jekyll_blog/) 
+Upload scripts I will be using on my local server, totally mutable and dependent on my needs at the moment, yet to be started.
 
 ## Diagram
 ![Diagram for a local server Ansible deployment](https://raw.githubusercontent.com/Akirapearl/homelab/main/images/server.png)
