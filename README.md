@@ -7,9 +7,9 @@ this repo onto a newer, better one.
 
 ### Roadmap - What do I want to achieve for this project?
 
-    * Refresh my knowledge with technologies such as [Ansible](https://github.com/Akirapearl/Ansible) and push for more insight on those.
-    * Learn new things (Proxmox, Tech2, Tech3)
-    * Enjoy, and end up with a daily companion for my learning and/or daily tasks, entirely made up by myself.
+ * Refresh my knowledge with technologies such as [Ansible](https://github.com/Akirapearl/Ansible) and push for more insight on those.
+ * Learn new things (Proxmox, Tech2, Tech3)
+ * Enjoy, and end up with a daily companion for my learning and/or daily tasks, entirely made up by myself.
 
 ### Roadmap - What's done so far?
 
