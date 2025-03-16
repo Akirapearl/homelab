@@ -14,9 +14,11 @@ this repo onto a newer, better one.
 ### Roadmap - What's done so far?
 
     - [x] Installed Proxmox within the server and managed ssh keys.
-    - [ ] Install Ansible locally (laptop), test connectivity against Proxmox server
+    - [x] Install Ansible locally (laptop), test connectivity against Proxmox server (ssh/Ansible).
     - [ ] Harden remote access.
     - [ ] Create a VM - Manually vs Automated.
+    - [ ] Install NextCloud.
+    - [ ] Get a monitoring solution.
     - [ ] Create a container - Manually vs Automated.
     - [ ] More to come...
 
